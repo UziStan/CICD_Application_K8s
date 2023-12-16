@@ -61,7 +61,7 @@ jobs:
         name: changing the deployment of git repo
         with:
           repository: 'UziStan/App-Manifest-'
-          token: ${{ secrets.GIT_PASSWORD }}
+          token: ${{ secrets.GIT_TOKEN }}
       - name: modify the image
         run: |
           git config user.email uzomasokonyia@gmail.com

@@ -10,7 +10,7 @@ def hello_world():
 <center>
 <h1>Demo on GitOps with ArgoCD and Github Actions. BY Uzi v1</h1> <br>
 <br>
-<img src="https://github.com/tanmaybhandge/CICD_Application_K8s/blob/main/itsworking.jpeg?raw=true">
+<img src="https://github.com/UziStan/CICD_Application_K8s/blob/main/itsworking.jpeg?raw=true">
 </center>
 </body>
 </html>
